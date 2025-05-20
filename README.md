@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @SSaabir<br>- 🌱 I’m currently learning MERN Stack<br>- 📫 Reach me at siraajsaabir@gmail.com<br>
+- 👋 Hi, I’m @SSaabir<br>- 🌱 I’m currently learning GSAP implementation for MERN<br>- 📫 Reach me at siraajsaabir@gmail.com<br>
 
 
 ## 🌐 Socials:
