@@ -1,6 +1,17 @@
 # 💫 About Me:
 👋 Hi, I’m @SSaabir<br>- 🌱 I’m currently learning GSAP implementation for MERN<br>- 📫 Reach me at siraajsaabir@gmail.com
 
+# 📚 Current Project: Tylac - E-Commerce Platform / Portfolio
+I'm building my personal portfolio and developing Tylac, a modern e-commerce platform for a client. I'm currently learning GSAP to add smooth, eye-catching animations and enhance the user experience on both sites.
+
+# 📚 Vision Project: Judy
+Judy is a futuristic AI project, a sentient-like assistant designed to understand context, communicate naturally, and operate seamlessly across devices and environments. I'm on a relentless pursuit of knowledge in AI, systems integration, and human-computer interaction to bring this vision to life — aiming to redefine how we live, work, and connect with technology.
+
+# 💡 Interests
+Artificial Intelligence & Machine Learning: I am deeply interested in AI, machine learning, and data science. I’m always looking for opportunities to apply AI in practical, real-world scenarios.
+Reading: Started as a fiction reader slowly got used to non-fiction. I enjoy reading, as it gives a break from reality.
+Gaming: Gaming is both a hobby and a passion of mine, particularly in how AI and gaming intersect to create immersive experiences.
+Creative Design: I enjoy graphic designing and video editing, allowing me to explore creativity through digital mediums
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=61572484410202) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/siraaj.saabir/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/siraaj-saabir-502866263) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:siraajsaabir@gmail.com) 
