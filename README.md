@@ -1,6 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @SSaabir<br>
-I'm an undergraduate IT student currently pursuing a B.sc. in Data Science. I’m passionate about coding, learning new technologies, and building impactful solutions. Right now, I'm focused on developing Tylac, a client e-commerce platform, my personal portfolio, and Judy, a visionary AI assistant designed for intelligent communication and cross-device functionality.
+👋 Hi, I’m @SSaabir. I'm an undergraduate IT student currently pursuing a B.sc. in Data Science. I’m passionate about coding, learning new technologies, and building impactful solutions. Right now, I'm focused on developing Tylac, a client e-commerce platform, my personal portfolio, and Judy, a visionary AI assistant designed for intelligent communication and cross-device functionality.
 <br>
 📫 Feel free to reach me at siraajsaabir@gmail.com
 
