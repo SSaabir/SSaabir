@@ -1,8 +1,11 @@
 # 💫 About Me:
-👋 Hi, I’m @SSaabir<br>- 🌱 I’m currently learning GSAP implementation for MERN<br>- 📫 Reach me at siraajsaabir@gmail.com
+👋 Hi, I’m @SSaabir<br>-
+I'm an undergraduate IT student currently pursuing a B.sc. in Data Science. I’m passionate about coding, learning new technologies, and building impactful solutions. Right now, I'm focused on developing Tylac, a client e-commerce platform, my personal portfolio, and Judy, a visionary AI assistant designed for intelligent communication and cross-device functionality.
+📫 Feel free to reach me at siraajsaabir@gmail.com
 
 # 📚 Current Project: Tylac - E-Commerce Platform / Portfolio
-I'm building my personal portfolio and developing Tylac, a modern e-commerce platform for a client. I'm currently learning GSAP to add smooth, eye-catching animations and enhance the user experience on both sites.
+I'm building my personal portfolio and developing Tylac, a modern e-commerce platform for a client. I'm currently learning GSAP to add smooth, eye-catching animations and enhance the user experience on both sites.<br>
+
 
 # 📚 Vision Project: Judy
 Judy is a futuristic AI project, a sentient-like assistant designed to understand context, communicate naturally, and operate seamlessly across devices and environments. I'm on a relentless pursuit of knowledge in AI, systems integration, and human-computer interaction to bring this vision to life — aiming to redefine how we live, work, and connect with technology.
